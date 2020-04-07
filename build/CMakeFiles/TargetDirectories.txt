@@ -1,0 +1,3 @@
+/Users/eric/High_Dynamic_Range_Imaging/build/CMakeFiles/rebuild_cache.dir
+/Users/eric/High_Dynamic_Range_Imaging/build/CMakeFiles/edit_cache.dir
+/Users/eric/High_Dynamic_Range_Imaging/build/CMakeFiles/hdr.dir
