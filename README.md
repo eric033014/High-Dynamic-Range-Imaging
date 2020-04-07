@@ -1,9 +1,11 @@
 # High-Dynamic-Range-Imaging
-git clone https://github.com/eric033014/High-Dynamic-Range-Imaging.git
-or
-git clone git@github.com:eric033014/High-Dynamic-Range-Imaging.git
+
 
 ## Enter Work Space & Create Cmake Work Space
+git clone https://github.com/eric033014/High-Dynamic-Range-Imaging.git <br>
+or <br>
+git clone git@github.com:eric033014/High-Dynamic-Range-Imaging.git
+
 cd High-Dynamic-Range-Imaging
 
 mkdir [cmake work space name]
