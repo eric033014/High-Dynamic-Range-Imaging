@@ -62,7 +62,7 @@ R output = r*10^(log(output intensity)), G output = g*10^(log(output intensity))
 進行Tone Mapping完後，輸出成jpg檔案格式。
 
 # 6.Reference
-Paul E. Debevec, Jitendra Malik, Recovering High Dynamic Range Radiance Maps from Photographs, SIGGRAPH 1997
-Fredo Durand, Julie Dorsey, Fast Bilateral Filtering for the Display of High Dynamic Range Images, SIGGRAPH 2002
-Reinhard, E., Stark, M., Shirley, P., and Ferwerda, J.A. Photographic tone reproduction for digital images, SIGGRAPH 2002
+Paul E. Debevec, Jitendra Malik, Recovering High Dynamic Range Radiance Maps from Photographs, SIGGRAPH 1997 <br>
+Fredo Durand, Julie Dorsey, Fast Bilateral Filtering for the Display of High Dynamic Range Images, SIGGRAPH 2002 <br>
+Reinhard, E., Stark, M., Shirley, P., and Ferwerda, J.A. Photographic tone reproduction for digital images, SIGGRAPH 2002 <br>
 課堂使用之PPT(MTB, HDR, Tone mapping)
