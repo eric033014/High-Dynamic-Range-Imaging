@@ -67,7 +67,14 @@ log(output intensity) = log(base) * compressionfactor + log(detail) - log(absolu
 R output = r*10^(log(output intensity)), G output = g*10^(log(output intensity)), B output = b*10^(log(output intensity))<br>
 進行Tone Mapping完後，輸出成jpg檔案格式。<br>
 
-# 6.Reference
+# 6.結果
+![image]()
+第一組圖的效果不是很好，因為相機設定了大光圈，導致有景深效果，背景的內容全部都模糊掉了，加上我在調整快門時，似乎有移動到相機，導致最後出的圖片，似乎有點模糊。
+但我已經使用了MTB，讓模糊減少了許多。
+![image]()
+第二組圖的部分，我選擇了亮暗對比明顯一些的場景進行拍攝，結果有比第一組圖更好的HDR圖片。
+
+# 7.Reference
 Paul E. Debevec, Jitendra Malik, Recovering High Dynamic Range Radiance Maps from Photographs, SIGGRAPH 1997 <br>
 Fredo Durand, Julie Dorsey, Fast Bilateral Filtering for the Display of High Dynamic Range Images, SIGGRAPH 2002 <br>
 Reinhard, E., Stark, M., Shirley, P., and Ferwerda, J.A. Photographic tone reproduction for digital images, SIGGRAPH 2002 <br>
